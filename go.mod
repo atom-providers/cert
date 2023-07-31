@@ -1,4 +1,4 @@
-module github.com/rogeecn/atom-addons/providers/cert
+module github.com/atom-providers/cert
 
 go 1.18
 
